@@ -13,6 +13,7 @@ sklearn = "*"
 pandas = "*"
 numpy = "*"
 seaborn = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"
