@@ -15,6 +15,9 @@ numpy = "*"
 seaborn = "*"
 scipy = "*"
 ipywidgets = ">=7.5"
+pdpbox = "*"
+xgboost = "*"
+category-encoders = "*"
 
 [requires]
 python_version = "3.7"
