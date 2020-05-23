@@ -14,7 +14,6 @@ pandas = "*"
 numpy = "*"
 seaborn = "*"
 scipy = "*"
-ipywidgets = ">=7.5"
 
 [requires]
 python_version = "3.7"
