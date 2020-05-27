@@ -18,6 +18,8 @@ ipywidgets = ">=7.5"
 pdpbox = "*"
 xgboost = "*"
 category-encoders = "*"
+tensorflow = "*"
+cufflinks = "*"
 
 [requires]
 python_version = "3.7"
