@@ -21,8 +21,8 @@ category-encoders = "*"
 tensorflow = "*"
 cufflinks = "*"
 joblib = "*"
-shap = "*"
 scikit-learn = "==0.22"
 
 [requires]
 python_version = "3.7"
+ 
